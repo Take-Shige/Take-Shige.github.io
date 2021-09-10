@@ -1,4 +1,4 @@
-baseURL = "https://github.com/Take-Shige/Take-Shige.github.io"
+baseURL = "https://take-shige.github.io/Take-Shige.github.io"
 languageCode = "ja"
 title = "雄大にいこう"
 contentDir = "post"
