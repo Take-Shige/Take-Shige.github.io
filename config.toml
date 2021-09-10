@@ -1,0 +1,7 @@
+baseURL = "http://Take-Shige.github.io/"
+languageCode = "ja"
+title = "雄大にいこう"
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+[taxonomies]
+tag = "tags"
